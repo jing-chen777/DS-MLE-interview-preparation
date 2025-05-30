@@ -1,11 +1,11 @@
-Statistics
-Most important concept ranking:
+# Statistics
+## Most important concept ranking:
 p-value: measures the likelihood of extreme results, assuming the null hypothesis is true.
 Linear regression
 t-test
 correlation coefficient
 type of errors (Type 1 false, type 2 false false)
-1.	Assumptions of t-test: INE
+## 1.	Assumptions of t-test: INE
 •	Independence: Observations within each group should be independent.
 •	Normality: Data in each group should follow a normal distribution. (flexible for large sample)
 •	Equal variance: Variances of two groups should be approximately equal.
